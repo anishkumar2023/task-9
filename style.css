@@ -1,0 +1,44 @@
+*{
+     margin:0;
+	 padding:0;
+	 box-sizing:border-box;
+}
+.container{
+	width:80%!important;
+}
+.background-imag{
+	background-image:linear-gradient(#08203ed6,#08203ed6) ,url(image/corp-why.jpg);
+	background-repeat:no-repeat;
+}
+h1,h2{
+	color:white;
+}
+p,i{
+	color:#e6d0d0;
+}
+.gray{
+	color:gray!important;
+}
+input:focus{
+    outline:none;
+}
+input{
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	width:100%;
+	padding-top:40px;
+	padding-bottom:5px;
+	border-bottom:1px solid gray!important;
+}
+.border-none{
+	padding-bottom:80px;
+	padding-left:10px;
+	
+}
+.text-light{
+	background-color:#08203ed6;
+}
+.padding{
+	padding:0 20px!important;
+}
